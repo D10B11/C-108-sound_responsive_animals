@@ -1,0 +1,44 @@
+body
+{
+    background-color: lightcoral; 
+}
+
+.header-div
+{
+    font-family: 'Pacifico', cursive;
+    background-color: teal;
+    text-decoration:underline;
+    text-decoration-color: beige;
+    color: aliceblue;
+}
+
+.main-div
+{
+    
+    font-family: 'Great Vibes', cursive;
+    text-shadow:3px 3px darkcyan ;
+}
+
+.main-div img:hover
+{
+    width:350px;
+    height:350px;
+}
+
+
+.main-div button
+{
+   margin-top: 2%;  
+}
+
+.footer
+{
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: medium;
+    bottom: 0;
+    background-color:mediumslateblue ; 
+    position: fixed;
+    text-align: center;
+    line-height: 4;
+    width:100%;
+}
